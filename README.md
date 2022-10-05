@@ -1,5 +1,7 @@
 # Diffusion2D-Python-Package
 
+Find everything you need to know in the [repo](https://github.com/RSE-102/Lecture-Material/blob/main/03_packaging/pypi_exercise.md)
+
 ## Instructions for students
 
 Please follow the instructions in [exercise_python_packaging_text.md](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_python_packaging_text.md).

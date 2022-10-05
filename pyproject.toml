@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "freifrauvonbleifrei-diffusion2D"
+description = "A small diffusion confusion"
+readme = "README.md"
+keywords = ["diffusion", "viz"]
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = [
+    "requests",
+    'importlib-metadata; python_version>"3.0"',
+]
+dynamic = ["0.0.1"]

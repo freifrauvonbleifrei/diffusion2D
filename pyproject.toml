@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "freifrauvonbleifrei-diffusion2D"
 description = "A small diffusion confusion"
 readme = "README.md"
+version = "0.0.1"
 keywords = ["diffusion", "viz"]
 classifiers = [
     "Programming Language :: Python :: 3"
@@ -14,4 +15,4 @@ dependencies = [
     "requests",
     'importlib-metadata; python_version>"3.0"',
 ]
-dynamic = ["0.0.1"]
+dynamic = []
